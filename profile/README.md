@@ -6,8 +6,6 @@ Axiomatic B.V. builds knowledge infrastructure for demanding professional enviro
 
 We begin with fundamental truths, rigorously test our assumptions, and engineer from first principles to create tools that extend what humans can achieve.
 
-Our product [Inora](https://inora.ai) collective organizational knowledge into the daily flow of healthcare, transforming how care is delivered.
-
 ---
 
 ∵ The mind is built to do great work.
